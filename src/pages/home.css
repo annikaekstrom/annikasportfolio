@@ -84,6 +84,10 @@ h1 {
   height: auto;
 }
 
+p {
+  text-align: center;
+}
+
 /* .background:hover {
   animation: slide 4s 1 ease-in-out;
   transform : translateX(-300px);
